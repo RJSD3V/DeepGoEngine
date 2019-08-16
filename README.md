@@ -9,3 +9,6 @@ DeepGo: A simple Search Engine for the Curious
  1. Execute Deepgo.java file.
  2. If file does not execute please look for Images DeepBlueWallpaper.jpeg and Paperback.jpeg, copy their links and paste them in 
  the image retrieval commands on lines 359 and 361.
+3. If you don't have time to run the code, here is the link to the video to show how it works : 
+
+## https://www.youtube.com/watch?v=Ce5mky-Q4_s

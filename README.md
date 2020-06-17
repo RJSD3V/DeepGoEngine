@@ -16,3 +16,5 @@
 
 PS: The code is quite messy, so if you have any questions regarding its authenticity, please reach out to me here or at
 #####  rjsode25@gmail.com
+And I will take you step by step through the process of how I built it.
+It was essentially supposed to have a backend, but since it is a college project I did on an old laptop, I wasn't able to keep those respective files and databases alive. 
